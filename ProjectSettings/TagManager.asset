@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interaction
+  - Object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1068523859
+    locked: 0
+  - name: BGDecoration
+    uniqueID: 708295215
+    locked: 0
+  - name: BGInteractable
+    uniqueID: 2100756661
+    locked: 0
+  - name: Player
+    uniqueID: 3785689071
+    locked: 0
+  - name: Dialogues
+    uniqueID: 1518875287
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

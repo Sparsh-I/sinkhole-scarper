@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Village/MC Room.unity
+    guid: 32a20c38a2f3d4c4bb18ea6229b663ff
+  - enabled: 1
+    path: Assets/Scenes/Village/MC Living Room.unity
+    guid: 84652d23f54e751478d25982a7316f44
+  - enabled: 1
+    path: Assets/Scenes/Village/Village.unity
+    guid: 98299f88be3019e49af78d4ce5601b43
+  - enabled: 1
+    path: Assets/Scenes/Caves/Cave One.unity
+    guid: f8bf9df31a1369e42996c2b6a6e65ea6
+  - enabled: 1
+    path: Assets/Scenes/Caves/Cave Two.unity
+    guid: 374d721eab6920147a01549c5ec7ff9e
+  m_configObjects: {}

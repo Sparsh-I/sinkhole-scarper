@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a6cc968c64c5f488cfeb211cfa0dcd, type: 3}
+  m_Name: Meake
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "WOAH! Hasn't anyone ever told you not to sneak up on others?\r"
+  - What are you doing down here? Did you fall too?
+  - Oh, where are my manners? I'm Meake, what's your name?
+  - '*MC*, huh? Well, it''s nice to meet you.'
+  - There are many monsters said to be lurking down here, so try your luck at pulling
+    the sword out of the stone up ahead.
+  responses: []
